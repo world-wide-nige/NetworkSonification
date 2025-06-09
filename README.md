@@ -12,7 +12,7 @@ The core idea is to represent data not visually, but audibly. By mapping data po
 |-- input/                           # Folder for the raw source CSV files.  
 |   |-- (Your raw .csv files go here)  
 |-- output/                          # Folder for the final, processed output data.  
-|   |-- Src-day-groupby-week-UpandDown_001_quant_46steps.csv  
+|   |-- Processed_traffic.csv  
 |-- README.md                        # This file.  
 
 
