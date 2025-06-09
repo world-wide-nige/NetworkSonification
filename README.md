@@ -29,8 +29,6 @@ cd your-repo-name
 2. Install the required libraries. It's recommended to use a virtual environment. The required libraries are listed in requirements.txt.
 3. pip install -r requirements.txt
 
-4. bshgdhsdsdsds
-
 # How to Run
 1. Place your data files: Add the raw CSV files you downloaded from the Janet Netsight Portal into the /input directory.
 2. Run the Jupyter Notebook: Launch Jupyter Lab or Jupyter Notebook:
