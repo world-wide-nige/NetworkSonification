@@ -8,7 +8,7 @@ This repository contains the Jupyter Notebook used for the data transformation a
 The core idea is to represent data not visually, but audibly. By mapping data points to musical notes, we can create a "soundscape" of the data that allows us to perceive patterns and trends in a completely new way. This project uses over a year's worth of daily network traffic data and transforms it into a weekly musical sequence.  
 
 /
-|-- Sonify_Weekly_CSV_Out_002.ipynb  # The main Jupyter Notebook with the full process.  
+|-- Sonify_Weekly_Traffic_to_CSV.ipynb  # The main Jupyter Notebook with the full process.  
 |-- input/                           # Folder for the raw source CSV files.  
 |   |-- (Your raw .csv files go here)  
 |-- output/                          # Folder for the final, processed output data.  
