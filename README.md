@@ -21,7 +21,7 @@ To run this notebook yourself, you will need Python 3 and a few common data scie
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/world-wide-nige/NetworkSonification.git](https://github.com/world-wide-nige/NetworkSonification.git)
 cd your-repo-name
 
 2. Install the required libraries. It's recommended to use a virtual environment. The required libraries are listed in requirements.txt.
