@@ -53,7 +53,7 @@ Data Loading & Cleaning: Reads multiple CSV files from the /input folder, combin
 # Using the Output for Sonification
 Once you have the final CSV file from the /output directory:
 
-1. Navigate to the TwoTone MIDI Out Beta website.
+1. Navigate to the [TwoTone MIDI Out Beta](https://twotone-midiout-beta.netlify.app/) website.
 2. Upload the generated CSV file.
 3. Map the data columns (in_quant, out_quant, in_up, in_down, etc.) to the musical controls in the app (e.g., Pitch, Instrument, Style).
 4. Experiment and listen to your data!
